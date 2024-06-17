@@ -1,4 +1,4 @@
-package wpeixian.github.com.bean;
+package MapReduce.bean;
 
 import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.io.Text;

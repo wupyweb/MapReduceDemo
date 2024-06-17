@@ -1,4 +1,4 @@
-package wpeixian.github.com.wordcount;
+package MapReduce.wordcount;
 
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;
